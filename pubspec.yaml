@@ -1,6 +1,6 @@
 name: input_state
-description: "A library that adds basic functionalities for input state."
-version: 1.0.0
+description: "A library that adds basic functionalities for input state, including input, error, and suggestions."
+version: 1.0.1
 repository: https://github.com/hunghv-dev/input_state
 
 environment:
